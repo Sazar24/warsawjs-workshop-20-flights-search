@@ -1,0 +1,5 @@
+.flightListItem{
+    margin: 5px;
+    border: 1px dashed black;
+    width: 300px;
+}
